@@ -1,0 +1,2 @@
+E:\ComputerAsAMedium\Tutorial 3\Tutorial3\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\ComputerAsAMedium\Tutorial 3\Tutorial3\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
